@@ -1,4 +1,11 @@
 {
+iss1
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  },
+  "name": "refactored-fortnight-mike",
+  "description": "Spring 24 - CIS 486 (Grad Projects) Mike Lab",
   "name": "solid-fishstick-snowcats",
   "version": "1.0.0",
   "description": "Dr. Cumbie (yet again) re-staring a class repo for CIS 486 Spring '24",
