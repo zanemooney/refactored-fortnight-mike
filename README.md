@@ -1,2 +1,2 @@
-# refactored-fortnight-mike
-Spring 24 - CIS 486 (Grad Projects) Mike Lab
+# solid-fishstick-snowcats
+Dr. Cumbie (yet again) re-staring a class repo for CIS 486 Spring '24 
