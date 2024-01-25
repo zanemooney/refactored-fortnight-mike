@@ -1,13 +1,15 @@
 {
   "dependencies": {
     "ejs": "^3.1.9",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "nodemon": "^3.0.3"
   },
   "name": "refactored-fortnight-mike",
   "description": "Spring 24 - CIS 486 (Grad Projects) Mike Lab",
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
+    "dev": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
